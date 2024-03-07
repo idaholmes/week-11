@@ -1,0 +1,8 @@
+{
+    "name": "week11",
+    "version": "1.0.0",
+    "description": "week11",
+    "dependencies": {
+        "bootstrap": "^5.3.3"
+    }
+}
